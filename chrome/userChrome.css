@@ -5,6 +5,7 @@
 
 /* Hidden buttons */
 #zen-current-workspace-indicator,
+#zen-current-workspace-indicator-container,
 #page-action-buttons,
 #identity-permission-box {
   display: none !important;
